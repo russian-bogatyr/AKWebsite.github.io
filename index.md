@@ -3,7 +3,7 @@
    - [Games](#games)  
       - [Operation Z 2.0](#operation-z-2)  
       - [Space Escape](#space-escape)  
-      - [Booster 1.2](#booster-1.2) 
+      - [Booster 1.2](#booster) 
       - [Space Guardian](#space-guardian)  
       - [Path Guardian](#path-guardian)
       - [Operation Z](#operation-z)  
@@ -39,7 +39,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 
 ### Space Escape
 
-### Booster 1.2
+### Booster
 
 ### Space Guardian
 
