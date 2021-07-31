@@ -23,6 +23,9 @@
 
  - [Freelance Projects](#freelance-projects)
  
+ - [Publications](#publications)
+ 
+ - [Other Experience](#other-experience)
  
  - [About Me](#about-me)  
  - [Contact Me](#contact-me)  
@@ -35,50 +38,65 @@ In this section you will be able to see all Unity 3D projects created by me or h
 ## Games
 
 ### Operation Z 2
+Currnetly working on a horror game
 
 ### Space Escape
+Game designed for iOS system
 
 ### Booster
+Early version of a Space Escape game
 
 ### Space Guardian
+Rail shooter designed in Unity
 
 ### Path Guardian
+Tower defense game with limited number of towers to place
 
 ### Operation Z
+FPS game 
 
 ### RPG Demo
+Projet under the development
 
 
 
 ## Simulations
 
 ### ONR CyVR-T
-
+Need to find somewhere a discription from SRS or SDD
 
 
 ## Unity Assets
 
 ### Easy Themed Key Door System
-My very first published asset. this asset is created to add a themed key door mechanic to your game. You can easily customize your key and door models accordingly to your game. 
+My very first published asset. This asset is created to add a themed key door system to your game. You can easily customize your key and door models accordingly to your game. 
 
 
 
 # iOS Apps
-In this section you will be able to see all my created iOS apps.  
-Currently there are three iOS apps in development but very soon you will see them, my friend.
 
 ## Pocket Quote
-
+App which provides on the screen a motivational quote of a famous person
 
 ## Toxic Quiz
-
+App whhich contains a quis for identifying if you are in toxic relationships
 
 
 # Computer Applications
-
+Smart Nose surgery  
+Easy Cheff Applications  
 
 
 # Freelance Projects
+List here my orders from fiverr, provide a link
+
+# Publications
+Publication With Ochoa
+
+# Other Exeperience
+
+Russian language tutor  
+Computer Architecture Grader  
 
 # About Me
 I am a passionate software developer with interest in two fields: app development and game development. This Page was created to show all my work to you, my dear visitor.
