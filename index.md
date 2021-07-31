@@ -1,7 +1,7 @@
 # Table of Content
  - [Unity Projects](#unity-projects)  
    - [Games](#games)  
-      - [Operation Z 2.0](#operation-z2.0)  
+      - [Operation Z 2.0](#operation-z-2)  
       - [Space Escape](#space-escape)  
       - [Booster 1.2](#booster-1.2) 
       - [Space Guardian](#space-guardian)  
@@ -35,7 +35,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 
 ## Games
 
-### Operation Z2.0
+### Operation Z 2
 
 ### Space Escape
 
