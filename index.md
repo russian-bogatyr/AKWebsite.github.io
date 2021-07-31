@@ -93,7 +93,7 @@ List here my orders from fiverr, provide a link
 # Publications
 Publication With Ochoa
 
-# Other Exeperience
+# Other Experience
 
 Russian language tutor  
 Computer Architecture Grader  
