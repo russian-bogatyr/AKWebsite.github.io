@@ -1,1 +1,3 @@
-remote_theme: daattali/beautiful-jekyll@5.0.0
+theme: jekyll-theme-slate
+title: Anton Kiselev Portfolio
+author: Anton Kiselev
