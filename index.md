@@ -1,7 +1,7 @@
 # Table of Content
  - [Unity Projects](#unity-projects)  
    - [Games](#games)  
-      - [Operation Z 2.0](#operation-z2)  
+      - [Operation Z 2.0](#operation-z2.0)  
       - [Space Escape](#space-escape)  
       - [Booster 1.2](#booster-1.2) 
       - [Space Guardian](#space-guardian)  
@@ -15,7 +15,15 @@
    - [Unity Assets](#unity-assets)
       - [Easy Key Door System](#easy-themed-key-door-system)
 	  
- - [iOS Apps](#ios-apps)  
+ - [iOS Apps](#ios-apps) 
+	- [Pocket Quote](#pocket-quote)
+	- [Toxic Quiz](#toxic-quiz)
+	
+ - [Computer Applications](#computer-applications)
+
+ - [Freelance Projects](#freelance-projects)
+ 
+ 
  - [About Me](#about-me)  
  - [Contact Me](#contact-me)  
 
@@ -60,10 +68,10 @@ My very first published asset. this asset is created to add a themed key door me
 In this section you will be able to see all my created iOS apps.  
 Currently there are three iOS apps in development but very soon you will see them, my friend.
 
-## Pocket Quote App
+## Pocket Quote
 
 
-## Toxic Quiz App
+## Toxic Quiz
 
 
 
