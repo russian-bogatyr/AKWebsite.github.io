@@ -8,25 +8,17 @@
       - [Path Guardian](#path-guardian)
       - [Operation Z](#operation-z)  
       - [RPG Demo](#rpg-demo)
-	  
    - [Simulations](#simulations)  
       - [ONR CyVR-T](#onr-cyvr-t)  
-	  
    - [Unity Assets](#unity-assets)
       - [Easy Key Door System](#easy-themed-key-door-system)
-	  
  - [iOS Apps](#ios-apps) 
 	- [Pocket Quote](#pocket-quote)
 	- [Toxic Quiz](#toxic-quiz)
-	
  - [Computer Applications](#computer-applications)
-
  - [Freelance Projects](#freelance-projects)
- 
  - [Publications](#publications)
- 
  - [Other Experience](#other-experience)
- 
  - [About Me](#about-me)  
  - [Contact Me](#contact-me)  
 
@@ -34,9 +26,7 @@
 # Unity Projects
 In this section you will be able to see all Unity 3D projects created by me or have participated in their creation, such as games, simulations or assets for asset store. link here 
 
-
 ## Games
-
 ### Operation Z 2
 Currnetly working on a horror game
 
@@ -47,7 +37,6 @@ Game designed for iOS system
 Early version of a Space Escape game
 
 ### Space Guardian
-Rail shooter designed in Unity
 
 ### Path Guardian
 Tower defense game with limited number of towers to place
@@ -55,23 +44,18 @@ Tower defense game with limited number of towers to place
 ### Operation Z
 FPS game 
 
-### RPG Demo
+### RPG Demo  
 Projet under the development
-
-
 
 ## Simulations
 
 ### ONR CyVR-T
 Need to find somewhere a discription from SRS or SDD
 
-
 ## Unity Assets
 
 ### Easy Themed Key Door System
 My very first published asset. This asset is created to add a themed key door system to your game. You can easily customize your key and door models accordingly to your game. 
-
-
 
 # iOS Apps
 
@@ -81,11 +65,9 @@ App which provides on the screen a motivational quote of a famous person
 ## Toxic Quiz
 App whhich contains a quis for identifying if you are in toxic relationships
 
-
 # Computer Applications
 Smart Nose surgery  
 Easy Cheff Applications  
-
 
 # Freelance Projects
 List here my orders from fiverr, provide a link
