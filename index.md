@@ -1,9 +1,9 @@
 # Table of Content
  - [Unity Projects](#unity-projects)  
    - [Games](#games)  
-      - [Operation Z 2.0](#operation-z-2)  
+      - [Operation Z 2](#operation-z-2)  
       - [Space Escape](#space-escape)  
-      - [Booster 1.2](#booster) 
+      - [Booster](#booster) 
       - [Space Guardian](#space-guardian)  
       - [Path Guardian](#path-guardian)
       - [Operation Z](#operation-z)  
