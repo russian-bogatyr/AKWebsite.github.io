@@ -29,59 +29,58 @@ In this section you will be able to see all Unity 3D projects created by me or h
 ## Games
 ### Operation Z 2
 **Genre:** FPS Horror  
-**Status:** In progress  
+**Status:** Currently under the development
+**Description:** A horor game created in Unity 3D. This project is an improved version of my project - [Operation Z](#operation-z). In this game a player will have to survive in the old mansion with a monster.  
 **Key Features:** FPS, hide-and-seek, themed key doors, Flashlight system, field of view for enemy , animated body and hands  
-**Description:** A horor game created in Unity 3D. This project is an improved version of my project - Operation Z. In this game a player will have to survive in the old mansion with a monster.  
 
 ### Space Escape
-Game designed for iOS system
+Game designed for iOS system  
 **Genre**:  
 **Status**:  
-**Key Features**:    
 **Description**:  
+**Key Features**:  
 
 ### Booster
-Early version of a Space Escape game
+Early version of a Space Escape game  
 **Genre**:  
 **Status**:  
-**Key Features**:    
 **Description**:  
+**Key Features**:    
 
 ### Space Guardian
 **Genre**:  
 **Status**:  
-**Key Features**:    
 **Description**:  
+**Key Features**:  
 
 ### Path Guardian
-Tower defense game with limited number of towers to place
+Tower defense game with limited number of towers to place  
 **Genre**:  
-**Status**:  
-**Key Features**:    
 **Description**:  
+**Key Features**:   
 
 ### Operation Z
 FPS game 
 **Genre**:  
 **Status**:  
-**Key Features**:    
 **Description**:  
+**Key Features**:  
 
 ### RPG Demo  
-Projet under the development
+Projet under the development  
 **Genre**:  
 **Status**:  
-**Key Features**:    
 **Description**:  
+**Key Features**:  
 
 ## Simulations
 **Genre**:  
 **Status**:  
-**Key Features**:   
 **Description**:  
+**Key Features**:  
 
 ### ONR CyVR-T
-Need to find somewhere a discription from SRS or SDD
+Need to find somewhere a discription from SRS or SDD  
 
 ## Unity Assets
 
