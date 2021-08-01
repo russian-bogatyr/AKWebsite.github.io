@@ -32,7 +32,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 **Status:** Currently under the development
 **Description:** A horor game created in Unity 3D. This project is an improved version of my project - [Operation Z](#operation-z). In this game a player will have to survive in the old mansion with a monster.  
 **Key Features:** FPS, hide-and-seek, themed key doors, Flashlight system, field of view for enemy , animated body and hands  
-![coming soon](/images/commingSoon.png)
+![coming soon]("/images/commingsoon.png)
 
 ### Space Escape
 Game designed for iOS system  
