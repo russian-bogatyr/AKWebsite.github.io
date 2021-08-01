@@ -42,7 +42,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
    
 ---
 <img align="right" src="images/comingSoon.png" width="250" height="250">  
-
+  
 ### Space Escape  
 **Genre**: IPhone game  
   
@@ -53,45 +53,68 @@ In this section you will be able to see all Unity 3D projects created by me or h
 **Key Features**: Mobile input from a touch screen and using advirtisments.  
   
 ---  
+<img align="right" src="images/comingSoon.png" width="250" height="250">    
+  
 ### Booster 
-Early version of a Space Escape game  
 **Genre**:  
-**Status**:  
+  
+**Status**:    
+  
 **Description**:  
-**Key Features**:    
-
-
+  
+**Key Features**:  
+  
+--- 
+<img align="right" src="images/comingSoon.png" width="250" height="250">    
+  
 ### Space Guardian
 **Genre**:  
-**Status**:  
+  
+**Status**:    
+  
 **Description**:  
+  
 **Key Features**:  
-
+  
+---  
+<img align="right" src="images/comingSoon.png" width="250" height="250">    
+  
 ### Path Guardian
-Tower defense game with limited number of towers to place  
 **Genre**:  
+  
+**Status**:    
+  
 **Description**:  
-**Key Features**:   
-
+  
+**Key Features**:  
+  
+--- 
+<img align="right" src="images/comingSoon.png" width="250" height="250">  
+  
 ### Operation Z
-FPS game 
 **Genre**:  
-**Status**:  
+  
+**Status**:    
+  
 **Description**:  
+  
 **Key Features**:  
-
+  
+--- 
+<img align="right" src="images/comingSoon.png" width="250" height="250">    
+  
 ### RPG Demo  
-Projet under the development  
 **Genre**:  
-**Status**:  
+  
+**Status**:    
+  
 **Description**:  
+  
 **Key Features**:  
+  
+--- 
 
 ## Simulations
-**Genre**:  
-**Status**:  
-**Description**:  
-**Key Features**:  
 
 ### ONR CyVR-T
 Need to find somewhere a discription from SRS or SDD  
