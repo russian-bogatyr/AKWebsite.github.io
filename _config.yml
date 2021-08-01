@@ -3,3 +3,14 @@ title: Anton Kiselev Portfolio
 author: Anton Kiselev
 github:
   is_project_page: false
+
+
+gallery1:
+  - url: /images/comingSoon.png
+    image_path: /images/comingSoon.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /images/comingSoon.png
+    image_path: /images/comingSoon.png
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
