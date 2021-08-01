@@ -13,8 +13,8 @@
    - [Unity Assets](#unity-assets)
       - [Easy Key Door System](#easy-themed-key-door-system)
  - [iOS Apps](#ios-apps) 
-	- [Pocket Quote](#pocket-quote)
-	- [Toxic Quiz](#toxic-quiz)
+      - [Pocket Quote](#pocket-quote)
+      - [Toxic Quiz](#toxic-quiz)
  - [Computer Applications](#computer-applications)
  - [Freelance Projects](#freelance-projects)
  - [Publications](#publications)
@@ -23,31 +23,62 @@
  - [Contact Me](#contact-me)  
 
 
-# Unity Projects
+# **Unity Projects**
 In this section you will be able to see all Unity 3D projects created by me or have participated in their creation, such as games, simulations or assets for asset store. link here 
 
 ## Games
 ### Operation Z 2
-Currnetly working on a horror game
+**Genre:** FPS Horror  
+**Status:** In progress  
+**Key Features:** FPS, hide-and-seek, themed key doors, Flashlight system, field of view for enemy , animated body and hands  
+**Description:** A horor game created in Unity 3D. This project is an improved version of my project - Operation Z. In this game a player will have to survive in the old mansion with a monster.  
 
 ### Space Escape
 Game designed for iOS system
+**Genre**:  
+**Status**:  
+**Key Features**:    
+**Description**:  
 
 ### Booster
 Early version of a Space Escape game
+**Genre**:  
+**Status**:  
+**Key Features**:    
+**Description**:  
 
 ### Space Guardian
+**Genre**:  
+**Status**:  
+**Key Features**:    
+**Description**:  
 
 ### Path Guardian
 Tower defense game with limited number of towers to place
+**Genre**:  
+**Status**:  
+**Key Features**:    
+**Description**:  
 
 ### Operation Z
 FPS game 
+**Genre**:  
+**Status**:  
+**Key Features**:    
+**Description**:  
 
 ### RPG Demo  
 Projet under the development
+**Genre**:  
+**Status**:  
+**Key Features**:    
+**Description**:  
 
 ## Simulations
+**Genre**:  
+**Status**:  
+**Key Features**:   
+**Description**:  
 
 ### ONR CyVR-T
 Need to find somewhere a discription from SRS or SDD
@@ -57,7 +88,7 @@ Need to find somewhere a discription from SRS or SDD
 ### Easy Themed Key Door System
 My very first published asset. This asset is created to add a themed key door system to your game. You can easily customize your key and door models accordingly to your game. 
 
-# iOS Apps
+# **iOS Apps**
 
 ## Pocket Quote
 App which provides on the screen a motivational quote of a famous person
@@ -65,23 +96,24 @@ App which provides on the screen a motivational quote of a famous person
 ## Toxic Quiz
 App whhich contains a quis for identifying if you are in toxic relationships
 
-# Computer Applications
+# **Computer Applications**
 Smart Nose surgery  
 Easy Cheff Applications  
+Drone Communication Project for the Boeing Company  
 
-# Freelance Projects
+# **Freelance Projects**
 List here my orders from fiverr, provide a link
 
-# Publications
+# **Publications**
 Publication With Ochoa
 
-# Other Experience
+# **Other Experience**
 
 Russian language tutor  
 Computer Architecture Grader  
 
 # About Me
-I am a passionate software developer with interest in two fields: app development and game development. This Page was created to show all my work to you, my dear visitor.
+I am a professional software developer and I am passionate about app development and game development. This page was created to show all my work to you, my dear visitor.
 I hope you find my products interesting for you. And if you have any feedback please send me an email, I will be glad to hear it.
 
 # Contact Me
