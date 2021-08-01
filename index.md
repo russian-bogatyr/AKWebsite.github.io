@@ -26,28 +26,36 @@
 # **Unity Projects**
 In this section you will be able to see all Unity 3D projects created by me or have participated in their creation, such as games, simulations or assets for asset store. link here 
 
-## Games
-### Operation Z 2 <img align="right" src="images/comingSoon.png" width="300" height="300">  
+## Games  
+
+### Operation Z 2<img align="right" src="images/comingSoon.png" width="300" height="300">    
 **Genre:** FPS Horror  
+  
 **Status:** Currently under the development  
+  
 **Description:** A horor game created in Unity 3D. This project is an improved version of my project - [Operation Z](#operation-z). In this game a player will have to survive in the old mansion with a monster.  
+  
 **Key Features:** FPS, hide-and-seek, themed key doors, Flashlight system, field of view for enemy , animated body and hands  
-
-
-
-### Space Escape
+  
+---
+### Space Escape <img align="right" src="images/comingSoon.png" width="300" height="300">  
 Game designed for iOS system  
-**Genre**:  
-**Status**:  
-**Description**:  
-**Key Features**:  
+**Genre**: IPhone game  
+  
+**Status**: Completed  
+**Description**:  A game in which you have to navigate in the labirinth. A player has three controls buttons. In this game you cannot touch any objects except start and end point.  
+**Key Features**: Mobile input from a touch screen.  
 
-### Booster
+---
+### Booster 
 Early version of a Space Escape game  
 **Genre**:  
 **Status**:  
 **Description**:  
 **Key Features**:    
+
+
+---
 
 ### Space Guardian
 **Genre**:  
