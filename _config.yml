@@ -3,7 +3,7 @@ title: Anton Kiselev Portfolio
 author: Anton Kiselev
 github:
   is_project_page: false
-
+markdown: kramdown
 
 gallery1:
   - url: /images/comingSoon.png
