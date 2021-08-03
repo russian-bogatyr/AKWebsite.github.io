@@ -60,7 +60,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
   
 **Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/booster-v1-2)    
   
-**Description**: The first project in Unity 3D. Simple game with idea to avoid obstacles, static and moving, to erach a final point. User can navigate via three key.  
+**Description**: The first project in Unity 3D. Simple game with idea to avoid obstacles, static and moving, to reach a final point. User can navigate via three keys. In this game you will face moving obstacles, dark levels with limited vision. Just a reminder, be calm when you are playing! 
   
 **Key Features**: Collision check, loading new scenes, Using sound system in Unity 3D  
   
@@ -72,7 +72,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
   
 **Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/space-guardian)    
   
-**Description**: As a pilot of a space ship your mission to protect a planet from alien invasion. In this game player can fly up-down and left-tright, but doesn't control forward motion.    
+**Description**: As a pilot of a space ship your mission to protect a planet from alien invasion. In this game player can fly up-down and left-tright, but doesn't control forward motion. In this game player will be able to get a score through destroying aliens and a final boss.   
   
 **Key Features**: Implementing timeline, animations, particles collision.     
   
