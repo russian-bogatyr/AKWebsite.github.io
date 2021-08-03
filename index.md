@@ -28,13 +28,10 @@ In this section you will be able to see all Unity 3D projects created by me or h
 
 ## Games  
 --- 
-
+   
 <img align="right" src="images/comingSoon.png" width="250" height="250">    
-
   
 ### Operation Z 2
-  
----  
 
 **Theme:** FPS Horror  
   
