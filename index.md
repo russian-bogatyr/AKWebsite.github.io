@@ -117,7 +117,10 @@ In this section you will be able to see all Unity 3D projects created by me or h
 ## Simulations
 
 ### ONR CyVR-T
-Need to find somewhere a discription from SRS or SDD  
+  
+**Status**: Under the development  
+
+**Descrtiption**: The purpose of this system is to provide a realistic virtual reality simulation of a Navy destroyer’s bridge so that Naval ROTC students can be trained and instructed in the detection of cybersecurity threats upon Navy computer infrastructure at sea. The portion of this system in the physical space, its hardware, is provided by virtual reality headsets and controllers. The software will be responsible for providing a fully-interactable virtual reality interface to the students, as well as an interface for the instructor to view the movements of the students, track their decisions and inject new tasks into the simulation. It is intended that students will enter the virtual reality simulation, then react and make decisions based upon what they see visually, on the radar, voyage management system, automated information system and the compass; and these decisions will be monitored by the instructor for the purpose of instruction and grading  
 
 ## Unity Assets
 
