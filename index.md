@@ -58,7 +58,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 ### Booster 
 **Theme**:  Flying with a space ship
   
-**Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/booster-v1-2)    
+**Status**: Completed. Project published [here](https://simmer.io/@Pandorec/booster-v1-2)    
   
 **Description**: The first project in Unity 3D. Simple game with idea to avoid obstacles, static and moving, to reach a final point. User can navigate via three keys. In this game you will face moving obstacles, dark levels with limited vision. Just a reminder, be calm when you are playing! 
   
@@ -70,7 +70,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 ### Space Guardian
 **Theme**: Space railshooter   
   
-**Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/space-guardian)    
+**Status**: Completed. Project published [here](https://simmer.io/@Pandorec/space-guardian)    
   
 **Description**: As a pilot of a space ship your mission to protect a planet from alien invasion. In this game player can fly up-down and left-tright, but doesn't control forward motion. In this game player will be able to get a score through destroying aliens and a final boss.   
   
@@ -82,7 +82,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 ### Path Guardian
 **Theme**: Fantasy tower defense  
   
-**Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/path-guardian)  
+**Status**: Completed. Project published [here](https://simmer.io/@Pandorec/path-guardian)  
   
 **Description**: Tower defense game with key feaure palcing limited number of towers, but being able to swith their position in FIFO order. Such that is you plce three towers, and willing to place tower in a different spot, the first tower will be replaced.    
   
@@ -94,7 +94,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 ### Operation Z
 **Genre**: FPS Horror   
   
-**Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/operation-z)  
+**Status**: Completed. Project published [here](https://simmer.io/@Pandorec/operation-z)  
   
 **Description**: In this game your mission get into a secret lab to find out what happened. In this game you will be in complete darkness and ha ve limited charge in your flash light. You will have to find more resources to survive 
   
@@ -106,7 +106,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 ### RPG Demo  
 **Theme**: Fantasy mouse click RPG 
   
-**Status**:  Partially completed. Project published [here](#https://simmer.io/@Pandorec/rpg-demo)  
+**Status**:  Partially completed. Project published [here](https://simmer.io/@Pandorec/rpg-demo)  
   
 **Description**: In this game player can navigate and interact with a world with simple mouse click. You will be able to save a progress and load in case of death. In this game you also will progress through the game, you HP and damage will increase accordingly with your level.   
   
