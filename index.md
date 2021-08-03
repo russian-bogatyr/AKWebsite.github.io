@@ -32,7 +32,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 <img align="right" src="images/comingSoon.png" width="250" height="250">    
 
 ### Operation Z 2
-**Genre:** FPS Horror  
+**Theme:** FPS Horror  
   
 **Status:** Currently under the development  
   
@@ -44,7 +44,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 <img align="right" src="images/comingSoon.png" width="250" height="250">  
   
 ### Space Escape  
-**Genre**: IPhone game  
+**Theme**: Flying with a space ship
   
 **Status**: Completed  
   
@@ -56,61 +56,61 @@ In this section you will be able to see all Unity 3D projects created by me or h
 <img align="right" src="images/comingSoon.png" width="250" height="250">    
   
 ### Booster 
-**Genre**:  
+**Theme**:  Flying with a space ship
   
-**Status**:    
+**Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/booster-v1-2)    
   
-**Description**:  
+**Description**: The first project in Unity 3D. Simple game with idea to avoid obstacles, static and moving, to erach a final point. User can navigate via three key.  
   
-**Key Features**:  
+**Key Features**: Collision check, loading new scenes, Using sound system in Unity 3D  
   
 --- 
 <img align="right" src="images/comingSoon.png" width="250" height="250">    
   
 ### Space Guardian
-**Genre**:  
+**Theme**: Space railshooter   
   
-**Status**:    
+**Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/space-guardian)    
   
-**Description**:  
+**Description**: As a pilot of a space ship your mission to protect a planet from alien invasion. In this game player can fly up-down and left-tright, but doesn't control forward motion.    
   
-**Key Features**:  
+**Key Features**: Implementing timeline, animations, particles collision.     
   
 ---  
 <img align="right" src="images/comingSoon.png" width="250" height="250">    
   
 ### Path Guardian
-**Genre**:  
+**Theme**: Fantasy tower defense  
   
-**Status**:    
+**Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/path-guardian)  
   
-**Description**:  
+**Description**: Tower defense game with key feaure palcing limited number of towers, but being able to swith their position in FIFO order. Such that is you plce three towers, and willing to place tower in a different spot, the first tower will be replaced.    
   
-**Key Features**:  
+**Key Features**: Implementing queues, AI path finding, Checking distance to shoot atenemies.    
   
 --- 
 <img align="right" src="images/comingSoon.png" width="250" height="250">  
   
 ### Operation Z
-**Genre**:  
+**Genre**: FPS Horror   
   
-**Status**:    
+**Status**: Completed. Project published [here](#https://simmer.io/@Pandorec/operation-z)  
   
-**Description**:  
+**Description**: In this game your mission get into a secret lab to find out what happened. In this game you will be in complete darkness and ha ve limited charge in your flash light. You will have to find more resources to survive 
   
-**Key Features**:  
+**Key Features**: Raycast shooting, 3D sound effects, animation controllers, death screen, weapon system 
   
 --- 
 <img align="right" src="images/comingSoon.png" width="250" height="250">    
   
 ### RPG Demo  
-**Genre**:  
+**Theme**: Fantasy mouse click RPG 
   
-**Status**:    
+**Status**:  Partially completed. Project published [here](#https://simmer.io/@Pandorec/rpg-demo)  
   
-**Description**:  
+**Description**: In this game player can navigate and interact with a world with simple mouse click. You will be able to save a progress and load in case of death. In this game you also will progress through the game, you HP and damage will increase accordingly with your level.   
   
-**Key Features**:  
+**Key Features**: Raycast system to navigate, inventory system, saving system, Unity UI system, scriptable objects.  
   
 --- 
 
@@ -127,7 +127,8 @@ My very first published asset. This asset is created to add a themed key door sy
 # **iOS Apps**
   
 --- 
-<img align="right" src="images/comingSoon.png" width="250" height="250">   
+<img align="right" src="images/comingSoon.png" width="250" height="250">  
+  
 ## Pocket Quote
 App which provides on the screen a motivational quote of a famous person  
   
@@ -138,7 +139,8 @@ App which provides on the screen a motivational quote of a famous person
 **Key Features**:  
   
 --- 
-<img align="right" src="images/comingSoon.png" width="250" height="250">   
+<img align="right" src="images/comingSoon.png" width="250" height="250"> 
+  
 ## Toxic Quiz
 App whhich contains a quis for identifying if you are in toxic relationships  
   
