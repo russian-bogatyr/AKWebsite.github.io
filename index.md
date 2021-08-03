@@ -125,12 +125,28 @@ Need to find somewhere a discription from SRS or SDD
 My very first published asset. This asset is created to add a themed key door system to your game. You can easily customize your key and door models accordingly to your game. 
 
 # **iOS Apps**
-
+  
+--- 
+<img align="right" src="images/comingSoon.png" width="250" height="250">   
 ## Pocket Quote
-App which provides on the screen a motivational quote of a famous person
-
+App which provides on the screen a motivational quote of a famous person  
+  
+**Status**:    
+  
+**Description**:  
+  
+**Key Features**:  
+  
+--- 
+<img align="right" src="images/comingSoon.png" width="250" height="250">   
 ## Toxic Quiz
-App whhich contains a quis for identifying if you are in toxic relationships
+App whhich contains a quis for identifying if you are in toxic relationships  
+  
+**Status**:    
+  
+**Description**:  
+  
+**Key Features**:  
 
 # **Computer Applications**
 Smart Nose surgery  
