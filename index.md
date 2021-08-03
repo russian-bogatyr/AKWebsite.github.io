@@ -31,7 +31,11 @@ In this section you will be able to see all Unity 3D projects created by me or h
 
 <img align="right" src="images/comingSoon.png" width="250" height="250">    
 
+  
 ### Operation Z 2
+  
+---  
+
 **Theme:** FPS Horror  
   
 **Status:** Currently under the development  
@@ -125,7 +129,7 @@ In this section you will be able to see all Unity 3D projects created by me or h
 ## Unity Assets
 
 ### Easy Themed Key Door System
-My very first published asset. This asset is created to add a themed key door system to your game. You can easily customize your key and door models accordingly to your game. 
+My very first published asset. This asset is created to add mechanoic, where you have a door with special key to open it. In my games I was using different colors for locks and keys. This system was done in such way that it is easy to customize, such as using your own models for your game. 
 
 # **iOS Apps**
   
