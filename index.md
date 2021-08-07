@@ -13,9 +13,12 @@
    - [Unity Assets](#unity-assets)
       - [Easy Key Door System](#easy-themed-key-door-system)
  - [iOS Apps](#ios-apps) 
-      - [Pocket Quote](#pocket-quote)
-      - [Toxic Quiz](#toxic-quiz)
+   - [Pocket Quote](#pocket-quote)
+   - [Toxic Quiz](#toxic-quiz)
  - [Computer Applications](#computer-applications)
+   - [Drone Communication Project for the Boeing Company](#drone-communication-project-for-the-boeing-company)
+   - [Smart Nose Surgery](#smart-nose-surgery)
+   - [Easy Cheff Application](#easy-cheff-application)
  - [Freelance Projects](#freelance-projects)
  - [Publications](#publications)
  - [Other Experience](#other-experience)
@@ -138,33 +141,48 @@ My very first published asset. This asset is created to add mechanoic, where you
 <img align="right" src="images/comingSoon.png" width="250" height="250">  
   
 ## Pocket Quote
-App which provides on the screen a motivational quote of a famous person  
   
-**Status**:    
+**Status**: Completed, not published.  
   
-**Description**:  
+**Description**: App which provides on the screen a motivational quote of a famous person. IT send a request to external service to get a random quote from the databse. The service returns a JSON file which is decoded and show quote and author.
   
-**Key Features**:  
+**Key Features**: JSON decoder, API usage
   
 --- 
 <img align="right" src="images/comingSoon.png" width="250" height="250"> 
   
 ## Toxic Quiz
-App whhich contains a quis for identifying if you are in toxic relationships  
   
-**Status**:    
+**Status**: Partially completed, not published.    
   
-**Description**:  
+**Description**: App whhich contains a quiz for identifying if you are in toxic relationships. The quiz is designed by a professianl psychologist. This app is a project in which I used MVC design pattern.    
   
-**Key Features**:  
+**Key Features**:  MVC design
   
 # **Computer Applications**
   
 ---  
+## Drone Communication Project for the Boeing Company    
+**Status**:  
   
-Smart Nose surgery  
-Easy Cheff Applications  
-Drone Communication Project for the Boeing Company  
+**Description**:    
+  
+**Key Features**: 
+  
+## Smart Nose Surgery  
+**Status**:  
+  
+**Description**:    
+  
+**Key Features**:  
+
+ 
+## Easy Cheff Application   
+**Status**:  
+  
+**Description**:    
+  
+**Key Features**:   
 
 # **Freelance Projects**
   
