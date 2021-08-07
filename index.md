@@ -125,7 +125,11 @@ In this section you will be able to see all Unity 3D projects created by me or h
   
 **Status**: Under the development  
 
-**Descrtiption**: The purpose of this system is to provide a realistic virtual reality simulation of a Navy destroyer’s bridge so that Naval ROTC students can be trained and instructed in the detection of cybersecurity threats upon Navy computer infrastructure at sea. The portion of this system in the physical space, its hardware, is provided by virtual reality headsets and controllers. The software will be responsible for providing a fully-interactable virtual reality interface to the students, as well as an interface for the instructor to view the movements of the students, track their decisions and inject new tasks into the simulation. It is intended that students will enter the virtual reality simulation, then react and make decisions based upon what they see visually, on the radar, voyage management system, automated information system and the compass; and these decisions will be monitored by the instructor for the purpose of instruction and grading  
+**Descrtiption**: The purpose of this system is to provide a realistic virtual reality simulation of a Navy destroyer’s bridge so that Naval ROTC students can be trained and instructed in the detection of cybersecurity threats upon Navy computer infrastructure at sea. The portion of this system in the physical space, its hardware, is provided by virtual reality headsets and controllers. The software will be responsible for providing a fully-interactable virtual reality interface to the students, as well as an interface for the instructor to view the movements of the students, track their decisions and inject new tasks into the simulation. It is intended that students will enter the virtual reality simulation, then react and make decisions based upon what they see visually, on the radar, voyage management system, automated information system and the compass; and these decisions will be monitored by the instructor for the purpose of instruction and grading   
+## Creative Videos and Game Designs for Kids Games LLC
+  
+---
+
 
 ## Unity Assets
   
@@ -155,7 +159,9 @@ My very first published asset. This asset is created to add mechanoic, where you
   
 **Status**: Partially completed, not published.    
   
-**Description**: App whhich contains a quiz for identifying if you are in toxic relationships. The quiz is designed by a professianl psychologist. This app is a project in which I used MVC design pattern.    
+**Description**: App which contains a quiz for identifying if you are in toxic relationships accordingly with codependency scale.
+The Codependency Self-Inventory Scale was developed in 1989 by psychologists Berry and Janey Winehold and was adapted by A.S. Kocharyan, E.V. Frolova N.A. Smakhtina in 2006.  
+The test allows you to assess the level of severity of codependency in a relationship. The questionnaire is widely used for research purposes and is popular with psychologists when conducting both group trainings and individual consultations.   
   
 **Key Features**:  MVC design
   
@@ -201,8 +207,8 @@ Publication With Ochoa
 ---  
   
 
-Russian language tutor  
-Computer Architecture Grader  
+# Russian language tutor  
+# Computer Architecture Class Grader  
 
 # About Me
   
