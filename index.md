@@ -205,8 +205,7 @@ over Bluetooth from a drone simulated on a development kit.
 List here my orders from fiverr, provide a link
 
 # **Publications**  
-**Reference**: Massood Towhidnejad, Omar Ochoa, Anton Kiselev, “An Analysis of the Software Engineering Curriculum Using the
-Guideline Models”. Published at Scientific Conference ASEE-SE20  
+**Reference**: Massod Towhidnejad, Omar Ochoa, Anton Kiselev, "An Analysis of the software Engineering Curriculum Using the Guidleine Models". Published at Scientific Conference ASEE-SE20
 ---  
   
 Publication With Ochoa
